@@ -1,0 +1,3 @@
+
+Beispiele:
+https://docs.nextcloud.com/server/12/developer_manual/android_library/examples.html
