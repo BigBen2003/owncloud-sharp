@@ -44,3 +44,4 @@ Binaries/RestSharp.xml
 Binaries/RestSharp.Build.dll
 Binaries/RestSharp.Build.pdb
 cov-int
+/.vs/owncloud-sharp/v15/Server/sqlite3
